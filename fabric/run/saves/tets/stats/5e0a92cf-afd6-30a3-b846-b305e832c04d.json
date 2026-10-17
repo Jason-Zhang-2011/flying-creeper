@@ -1,0 +1,28 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:spruce_log": 1,
+      "minecraft:end_crystal": 7,
+      "minecraft:creeper_spawn_egg": 3,
+      "minecraft:obsidian": 14
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 3223,
+      "minecraft:time_since_rest": 2824,
+      "minecraft:walk_one_cm": 3113,
+      "minecraft:total_world_time": 3312,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 11353,
+      "minecraft:mob_kills": 1,
+      "minecraft:sneak_time": 187,
+      "minecraft:play_time": 2824,
+      "minecraft:damage_dealt": 85,
+      "minecraft:jump": 15,
+      "minecraft:time_since_death": 2824
+    },
+    "minecraft:killed": {
+      "minecraft:creeper": 1
+    }
+  },
+  "DataVersion": 4671
+}

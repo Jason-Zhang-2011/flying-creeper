@@ -1,0 +1,37 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+#issueTrackerURL = ""
+license = "CC0-1.0"
+
+[[mods]]
+modId = "flying_creeper"
+version = "${version}"
+displayName = "Flying Creeper"
+description = '''
+Creepers fly with permanent wings. Collect fragile wings to glide, and beware their airborne explosions.
+'''
+#logoFile = ""
+
+[[dependencies.flying_creeper]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.11,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.flying_creeper]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.11,1.21.12)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.flying_creeper]]
+modId = "architectury"
+type = "required"
+versionRange = "[19.0.1,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[mixins]]
+config = "flying-creeper.mixins.json"

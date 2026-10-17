@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/flying-creeper.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/flying-creeper.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/flying-creeper.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/flying-creeper.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/flying-creeper.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/flying-creeper.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/flying-creeper.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/flying-creeper.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/flying-creeper.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/flying-creeper.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/flying-creeper.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/flying-creeper.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/flying-creeper.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/flying-creeper.neoforge.test.iml" />
+    </modules>
+  </component>
+</project>

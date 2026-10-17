@@ -1,0 +1,36 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "flying_creeper:creeper_wings": 1,
+      "minecraft:firework_rocket": 58
+    },
+    "minecraft:used": {
+      "minecraft:firework_rocket": 8,
+      "flying_creeper:creeper_wings": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 91,
+      "minecraft:walk_one_cm": 1247,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 470,
+      "minecraft:play_time": 1572,
+      "minecraft:jump": 2,
+      "minecraft:time_since_death": 66,
+      "minecraft:aviate_one_cm": 118442,
+      "minecraft:drop": 3,
+      "minecraft:sprint_one_cm": 223,
+      "minecraft:fall_one_cm": 5037,
+      "minecraft:total_world_time": 1582,
+      "minecraft:fly_one_cm": 1431,
+      "minecraft:deaths": 1
+    },
+    "minecraft:mined": {
+      "minecraft:tall_dry_grass": 1
+    },
+    "minecraft:dropped": {
+      "flying_creeper:creeper_wings": 2,
+      "minecraft:firework_rocket": 58
+    }
+  },
+  "DataVersion": 4671
+}

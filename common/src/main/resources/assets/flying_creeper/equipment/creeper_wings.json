@@ -1,0 +1,9 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "flying_creeper:creeper_wings"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:creeper_spawn_egg": 4,
+      "minecraft:firework_rocket": 13
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 2534,
+      "minecraft:walk_one_cm": 7980,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 678,
+      "minecraft:play_time": 2534,
+      "minecraft:damage_dealt": 239,
+      "minecraft:jump": 16,
+      "minecraft:time_since_death": 2534,
+      "minecraft:aviate_one_cm": 58143,
+      "minecraft:drop": 5,
+      "minecraft:sprint_one_cm": 954,
+      "minecraft:swim_one_cm": 114,
+      "minecraft:total_world_time": 2583,
+      "minecraft:fly_one_cm": 4975,
+      "minecraft:walk_on_water_one_cm": 828,
+      "minecraft:crouch_one_cm": 45,
+      "minecraft:sneak_time": 27
+    },
+    "minecraft:dropped": {
+      "flying_creeper:creeper_wings": 1,
+      "minecraft:creeper_spawn_egg": 64,
+      "minecraft:firework_rocket": 51
+    }
+  },
+  "DataVersion": 4671
+}

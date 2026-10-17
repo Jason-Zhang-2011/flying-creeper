@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "flying_creeper",
+  "version": "${version}",
+  "name": "Flying Creeper",
+  "description": "Creepers fly with permanent wings. Collect fragile wings to glide, and beware their airborne explosions.",
+  "license": "CC0-1.0",
+  "icon": "assets/flying_creeper/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.creeper.fabric.ExampleModFabric"
+    ],
+    "client": [
+      "com.creeper.fabric.client.ExampleModFabricClient"
+    ]
+  },
+  "mixins": [
+    "flying-creeper.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "architectury": ">=19.0.1",
+    "fabric-api": "*"
+  }
+}
